@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 测试缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.idea/
